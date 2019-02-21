@@ -128,6 +128,8 @@ title: 工程硕士论文基本要求
 
 附件
 
+[下载](https://github.com/PKUCATers/graduation-guide/raw/master/20170911090615204657.docx)
+
 《工程硕士不同形式学位论文基本要求及评价指标（试行）》
 
 【论文类型】
