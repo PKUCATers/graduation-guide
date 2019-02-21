@@ -1,8 +1,8 @@
 ## CAT 毕业攻略
 
 
-* [选题](/#)
-* [实习立项](/#)
+* [选题](https://github.com/PKUCATers/graduation-guide/#)
+* [实习立项](https://github.com/PKUCATers/graduation-guide/#)
 
 ……待更新
 
@@ -15,7 +15,7 @@
 
 ### 论文写作
 
-* [写作指导](/#)
+* [写作指导](https://github.com/PKUCATers/graduation-guide/#)
 * [学术资源](resources.md)
 * 写作工具
     * [EndNote文献管理](http://dbnav.lib.pku.edu.cn/content/endnote参考文献管理软件)
