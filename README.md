@@ -1,9 +1,8 @@
 ## CAT 毕业攻略
 
-
-* [选题](https://github.com/PKUCATers/graduation-guide/)
-* [实习立项](https://github.com/PKUCATers/graduation-guide/)
-* [实践要求](https://github.com/PKUCATers/graduation-guide/)
+* [选题](https://github.com/PKUCATers/graduation-guide/#)
+* [实习立项](https://github.com/PKUCATers/graduation-guide/#)
+* [实践要求](https://github.com/PKUCATers/graduation-guide/#)
 
 ……待更新
 
