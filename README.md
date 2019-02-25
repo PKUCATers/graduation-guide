@@ -24,3 +24,5 @@
 * [培养方案](plan.md)
 * [他山之石](reference-for-CAT-major.md)
 * [北京大学CAT工作室-人人主页](http://page.renren.com/600039077)
+* [语言服务相关网站收集](https://blog.xulihang.me/collection-of-websites-about-language-service/)
+
