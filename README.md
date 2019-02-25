@@ -10,6 +10,7 @@
 
 * [实习岗位收集](https://github.com/PKUCATers/graduation-guide/issues/1)
 * [蒙特雷TLM项目就业情况](https://www.middlebury.edu/institute/advancing-your-career/outcomes/tlm)
+* [给同学们的一封信：关于实习工作选择的思考](http://blog.renren.com/blog/348034862/869305859)
 
 ### 论文写作
 

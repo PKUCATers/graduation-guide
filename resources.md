@@ -28,8 +28,7 @@ title: 学术资源
 
 图书：
 
-* [超星图书馆](http://www.sslibrary.com/
-)
+* [超星图书馆](http://www.sslibrary.com/)
 * [Library Genesis](http://gen.lib.rus.ec/)
 
 
