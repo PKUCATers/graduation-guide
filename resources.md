@@ -27,11 +27,20 @@ title: 学术资源
 * Digital Scholarship in the Humanities (ssci)
     * Andrea Nini; An authorship analysis of the Jack the Ripper letters, Digital Scholarship in the Humanities, Volume 33, Issue 3, 1 September 2018, Pages 621–636
     * Liangping Wu; The Web as Corpus: Theory and Practice. Maristella Gatto., Digital Scholarship in the Humanities, Volume 30, Issue 4, 1 December 2015, Pages 611–614
+* The Translator (ssci)
+    * Invisible terminology, visible translations: the New Penguin Freud translations and the case against standardized terminology. [DOI](https://doi.org/10.1080/13556509.2018.1503525)
+* Target. International Journal of Translation Studies (ssci)
+    * Measuring the difficulty of text translation: The combination of text-focused and translator-oriented approaches. [DOI](https://www.benjamins.com/catalog/target.18036.zhe)
+* Babel. International Journal of Translation (ssci)
+    * A data-driven collection of peer-reviewed journal articles during 2000–2017 [DOI](https://doi.org/10.1075/babel.00051.akb)
+* Perspectives. Studies in Translation Theory and Practice
+    * Intersections: audiovisual translation at the crossroads of disciplines. [DOI](https://doi.org/10.1080/0907676X.2018.1557715)
 
 
 毕业论文：
 
 * ProQuest
+    * Managing Terminology for Translation Using Translation Environment Tools: Towards a Definition of Best Practices. University of Ottawa. PhD in Translation Studies
 
 图书：
 
