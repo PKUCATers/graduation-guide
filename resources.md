@@ -21,7 +21,7 @@ title: 学术资源
 * Meta (ahci)
     * Daems, J., Vandepitte, S., Hartsuiker, R. J. & Macken, L. (2017). Translation Methods and Experience: A Comparative Analysis of Human Translation and Post-editing with Students and Professional Translators. Meta, 62(2), 245–270. [DOI](https://doi.org/10.7202/1041023ar) 
 * Machine Translation
-    * Karimova, S., Simianer, P. & Riezler, S. Machine Translation (2018) 32: 309. [DOI](https://doi.org/10.1007/s10590-018-9224-8)
+    * Karimova, S., Simianer, P. & Riezler, S. A user-study on online adaptation of neural machine translation to human post-edits. Machine Translation (2018) 32: 309. [DOI](https://doi.org/10.1007/s10590-018-9224-8)
 * Translator and Interpreter Trainer (ssci)
     * An integrated curricular design for computer-assisted translation tools: developing technical expertise [DOI](https://doi.org/10.1080/1750399X.2018.1502007)
 * Digital Scholarship in the Humanities (ssci)
