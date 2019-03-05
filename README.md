@@ -9,7 +9,6 @@
 ### 实习与就业
 
 * [实习岗位收集](https://github.com/PKUCATers/graduation-guide/issues/1)
-* [蒙特雷TLM项目就业情况](https://www.middlebury.edu/institute/advancing-your-career/outcomes/tlm)
 
 ### 论文写作
 
