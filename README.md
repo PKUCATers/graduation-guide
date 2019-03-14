@@ -8,6 +8,7 @@
 
 ### 实习与就业
 
+* [实习立项说明](intern-program.md)
 * [实习岗位收集](https://github.com/PKUCATers/graduation-guide/issues/1)
 
 ### 论文写作
