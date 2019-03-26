@@ -47,6 +47,10 @@ title: 学术资源
 * [超星图书馆](http://www.sslibrary.com/)
 * [Library Genesis](http://gen.lib.rus.ec/)
 
+文件：
+
+* [硕士博士论文网站.docx](https://github.com/PKUCATers/graduation-guide/raw/master/硕士博士论文网站.docx)
+
 
 
 
