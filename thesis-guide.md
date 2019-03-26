@@ -16,4 +16,4 @@ title: 写作指导
 
 文件：
 
-* [毕业论文提交自我检查.docx](毕业论文提交自我检查.docx)
+* [毕业论文提交自我检查.docx](https://github.com/PKUCATers/graduation-guide/raw/master/相关文件/毕业论文提交自我检查.docx)

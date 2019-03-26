@@ -49,7 +49,7 @@ title: 学术资源
 
 文件：
 
-* [硕士博士论文网站.docx](https://github.com/PKUCATers/graduation-guide/raw/master/硕士博士论文网站.docx)
+* [硕士博士论文网站.docx](https://github.com/PKUCATers/graduation-guide/raw/master/相关文件/硕士博士论文网站.docx)
 
 
 

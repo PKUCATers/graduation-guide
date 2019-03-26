@@ -8,7 +8,7 @@ title: 选题
 
 需要分别填写以下两个文档：
 
-* [语言信息工程系毕业论文选题报告.docx](https://github.com/PKUCATers/graduation-guide/raw/master/语言信息工程系毕业论文选题报告.docx)
-* [翻译选题申请计划书-翻译研究报告选题报告书.docx](https://github.com/PKUCATers/graduation-guide/raw/master/翻译选题申请计划书-翻译研究报告选题报告书.docx)
+* [语言信息工程系毕业论文选题报告.docx](https://github.com/PKUCATers/graduation-guide/raw/master/相关文件/语言信息工程系毕业论文选题报告.docx)
+* [翻译选题申请计划书-翻译研究报告选题报告书.docx](https://github.com/PKUCATers/graduation-guide/raw/master/相关文件/翻译选题申请计划书-翻译研究报告选题报告书.docx)
 
 
