@@ -13,7 +13,12 @@ title: 写作指导
 
 * [关于写毕业论文不能写成“教课书”的问题](http://blog.renren.com/blog/348034862/504898904)
 * [还告诉大家写作论文的一条“捷径”](http://blog.renren.com/blog/348034862/730853342)
+* [关于实习-毕业论文，俞老师给学生的信合集](https://github.com/PKUCATers/graduation-guide/raw/master/相关文件/关于实习-毕业论文给学生的信合集.docx)
 
-文件：
+现场辅导：
 
-* [毕业论文提交自我检查.docx](https://github.com/PKUCATers/graduation-guide/raw/master/相关文件/毕业论文提交自我检查.docx)
+* [第一次毕业论文辅导演示文档](https://github.com/PKUCATers/graduation-guide/raw/master/相关文件/毕业论文辅导－第一次.pptx)
+* [第一次论文指导内容测试题](https://github.com/PKUCATers/graduation-guide/raw/master/相关文件/论文第一次指导内容测试题.docx)
+* [毕业论文提交自我检查-v2019.docx](https://github.com/PKUCATers/graduation-guide/raw/master/相关文件/毕业论文提交自我检查-v2019.docx)
+
+
