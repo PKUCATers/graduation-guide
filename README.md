@@ -13,6 +13,7 @@
 
 ### 论文写作
 
+* [历年论文](https://pkucaters.github.io/CAT-thesis/)
 * [写作指导](thesis-guide.md)
 * [学术资源](resources.md)
 * 写作工具
