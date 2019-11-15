@@ -23,6 +23,7 @@
 
 ### 其它
 
+* [研究生图像采集](http://www.ss.pku.edu.cn/index.php/education/edunotice/3918-预计2020年1月7月毕业研究生图像采集通知)
 * [培养方案](plan.md)
 * [他山之石](reference-for-CAT-major.md)
 * [北京大学CAT工作室-人人主页](http://page.renren.com/600039077)
