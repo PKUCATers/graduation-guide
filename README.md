@@ -16,6 +16,7 @@
 
 * [历年论文](https://pkucaters.github.io/CAT-thesis/)
 * [写作指导](thesis-guide.md)
+* [论文模板](thesis-template.md)
 * [学术资源](resources.md)
 * 写作工具
     * [EndNote文献管理](http://dbnav.lib.pku.edu.cn/content/endnote参考文献管理软件)
