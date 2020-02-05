@@ -4,8 +4,6 @@
 * [实习立项](intern-program-register.md)
 * [实践要求](practice-requirements.md)
 
-……待更新
-
 ### 实习与就业
 
 * [实习立项与开题说明](intern-program.md)
@@ -17,6 +15,7 @@
 * [历年论文](https://pkucaters.github.io/CAT-thesis/)
 * [写作指导](thesis-guide.md)
 * [论文模板](thesis-template.md)
+* [论文排版](https://pkucaters.github.io/thesis-typesetting/)
 * [学术资源](resources.md)
 * 写作工具
     * [EndNote文献管理](http://dbnav.lib.pku.edu.cn/content/endnote参考文献管理软件)
