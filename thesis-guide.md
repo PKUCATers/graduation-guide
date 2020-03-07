@@ -19,6 +19,7 @@ title: 写作指导
 
 * [第一次毕业论文辅导演示文档](https://github.com/PKUCATers/graduation-guide/raw/master/相关文件/毕业论文辅导－第一次.pptx)
 * [第一次论文指导内容测试题](https://github.com/PKUCATers/graduation-guide/raw/master/相关文件/论文第一次指导内容测试题.docx)
-* [毕业论文提交自我检查-v2019.docx](https://github.com/PKUCATers/graduation-guide/raw/master/相关文件/毕业论文提交自我检查-v2019.docx)
+* [论文初稿写作指导2020.pptx](https://github.com/PKUCATers/graduation-guide/raw/master/相关文件/论文初稿写作指导2020.pptx)
+* [毕业论文提交自我检查表-v2020.docx](https://github.com/PKUCATers/graduation-guide/raw/master/相关文件/毕业论文提交自我检查表-v2020.docx)
 
 
