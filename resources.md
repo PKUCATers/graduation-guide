@@ -6,6 +6,8 @@ title: 学术资源
 
 更多见北大图书馆：<http://dbnav.lib.pku.edu.cn/newhomepage?sort_bef_combine=totalcount%20DESC>
 
+二级列表是具体例子。
+
 综合性搜索引擎：
 
 * 读秀
@@ -15,8 +17,18 @@ title: 学术资源
 * Google Scholar
 * Web of Science
 
+毕业论文：
 
-期刊（二级列表是例子）：
+* ProQuest
+    * Managing Terminology for Translation Using Translation Environment Tools: Towards a Definition of Best Practices. University of Ottawa. PhD in Translation Studies
+* [中国台湾地区几乎所有院校的硕博论文库（部分可下全文）](https://www.cnblogs.com/liuzhengliang/archive/2009/06/16/1504639.html)
+
+图书：
+
+* [超星图书馆](http://www.sslibrary.com/)
+* [Library Genesis](http://gen.lib.rus.ec/)
+
+期刊：
 
 * Meta (ahci)
     * Daems, J., Vandepitte, S., Hartsuiker, R. J. & Macken, L. (2017). Translation Methods and Experience: A Comparative Analysis of Human Translation and Post-editing with Students and Professional Translators. Meta, 62(2), 245–270. [DOI](https://doi.org/10.7202/1041023ar) 
@@ -35,17 +47,6 @@ title: 学术资源
     * A data-driven collection of peer-reviewed journal articles during 2000–2017 [DOI](https://doi.org/10.1075/babel.00051.akb)
 * Perspectives. Studies in Translation Theory and Practice
     * Intersections: audiovisual translation at the crossroads of disciplines. [DOI](https://doi.org/10.1080/0907676X.2018.1557715)
-
-
-毕业论文：
-
-* ProQuest
-    * Managing Terminology for Translation Using Translation Environment Tools: Towards a Definition of Best Practices. University of Ottawa. PhD in Translation Studies
-
-图书：
-
-* [超星图书馆](http://www.sslibrary.com/)
-* [Library Genesis](http://gen.lib.rus.ec/)
 
 文件：
 
