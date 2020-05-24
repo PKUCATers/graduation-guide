@@ -4,6 +4,12 @@ layout: post
 title: 就业相关
 ---
 
+# 适合的工作
+
+[求职讨论贴](https://github.com/PKUCATers/graduation-guide/issues/2)
+
+# 流程相关
+
 ## （一）	《就业推荐表》
 
 1、系统补充个人信息
